@@ -1,0 +1,1 @@
+{"version":3,"file":"project.model.js","sourceRoot":"","sources":["../../src/models/project.model.ts"],"names":[],"mappings":";;;;;;AAAA,wDAAgC;AAGhC,MAAM,eAAe,GAAG,QAAQ,CAAC;AAEjC,MAAM,MAAM,GAAG,IAAI,kBAAQ,CAAC,MAAM,CAAW,EAE5C,EAAE;IACC,UAAU,EAAE,IAAI;CACnB,CAAC,CAAA;AAEW,QAAA,YAAY,GAAG,kBAAQ,CAAC,KAAK,CACtC,OAAO,EACP,MAAM,EACN,eAAe,CAClB,CAAC"}
